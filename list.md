@@ -1,2 +1,2 @@
 # Add to Pios app list,
-| sofinaubu314| A Pi Ecosystem that can be used to become the same time an online & offline Local Markertplace that app will be built by PICT Using Python/SDK for smoth payment | Consumer utilities/  | Python/Figma, FireBase | [sofinabu314](https://github.com/SI-tech-bit/local-commerce-hub )  | N/A   | [sofinaubu314](https://sofinaubu314.pinet.com)    | (When available)   |
+| sofinaubu314| A Pi Ecosystem that can be used to become the same time an online & offline Local Markertplace that app will be built Using Python/SDK for smoth payment | Consumer utilities/  | Python/Figma, FireBase | [sofinabu314](https://github.com/SI-tech-bit/local-commerce-hub )  | N/A   | [sofinaubu314](https://sofinaubu314.pinet.com)    | (When available)   |
